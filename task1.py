@@ -1,6 +1,6 @@
 import requests
 
-API_KEY = "1b426be26aa84acba20b9cde4b80a225"  
+API_KEY = "1b426be26aa84acba20b9cde4b80a225"  # Replace with the API key you copied
 CITY = "Mumbai"
 URL = f"http://api.openweathermap.org/data/2.5/weather?q={CITY}&appid={API_KEY}&units=metric"
 
